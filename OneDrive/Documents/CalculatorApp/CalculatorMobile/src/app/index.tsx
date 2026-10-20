@@ -192,7 +192,7 @@ export default function HomeScreen() {
       <View style={styles.frame}>
         <View style={[styles.calculator, compact && styles.calculatorCompact]}>
           <View style={styles.topline}>
-            <Text style={styles.brand}>MINT / 01</Text>
+            <Text style={styles.brand}>CJAY AMORES · BSIT-3T2</Text>
             <View style={styles.tools}>
               <Pressable
                 accessibilityRole="button"
